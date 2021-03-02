@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{6E978217-7D07-45FD-837C-FF83F41186A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "core\Core.csproj", "{BDC2BBE6-37FB-44CE-BC47-45B8FA563E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{9CFEF2F6-A179-473F-B248-030F986726B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E978217-7D07-45FD-837C-FF83F41186A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E978217-7D07-45FD-837C-FF83F41186A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E978217-7D07-45FD-837C-FF83F41186A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E978217-7D07-45FD-837C-FF83F41186A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC2BBE6-37FB-44CE-BC47-45B8FA563E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC2BBE6-37FB-44CE-BC47-45B8FA563E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC2BBE6-37FB-44CE-BC47-45B8FA563E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC2BBE6-37FB-44CE-BC47-45B8FA563E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFEF2F6-A179-473F-B248-030F986726B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFEF2F6-A179-473F-B248-030F986726B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFEF2F6-A179-473F-B248-030F986726B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFEF2F6-A179-473F-B248-030F986726B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95105DD2-14D5-4448-8A9E-256E07B643D0}
+	EndGlobalSection
+EndGlobal
